@@ -172,7 +172,6 @@ PWM:120 | RAW: ATOP=650 ABOT=430 | MEAS: vled=2100mV vrr=107mV irr=10mA irf=10mA
 ### LCD Display During Operation
 ![LCD Test 1](images/lcd-test-1.png)
 ![LCD Test 2](images/lcd-test-2.png)
-![LCD Test 3](images/lcd-test-3.png)
 
 ---
 
